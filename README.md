@@ -81,11 +81,14 @@ ds_AkashKatiyar/
 ### Sentiment Distribution
 ![Sentiment Distribution](sentiment_distribution.png)
 
-### Trading Activity
+### Trades Over Time
 ![Trader Activity](trades_over_time.png)
 
-### Sentiment vs Trades
+### Trades vs Sentiment
 ![Sentiment vs Trades](trades_vs_sentiment.png)
+
+### Trades Per Day
+![Sentiment vs Trades](trades_per_day.png)
 
 ---
 
