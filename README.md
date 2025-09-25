@@ -7,8 +7,6 @@ The goal is to analyze **crypto trader activity** and **market sentiment** from 
 ---
 
 ##  Folder Structure
-
-
 ds_AkashKatiyar/
 ├── notebooks/ # Jupyter/Colab notebooks
 │ └── analysis.ipynb
@@ -21,7 +19,6 @@ ds_AkashKatiyar/
 │ └── sentiment_vs_trades.png
 ├── ds_report.pdf # Final PDF report (exported)
 └── README.md # Documentation
-
 
 ---
 
