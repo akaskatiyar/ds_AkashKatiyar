@@ -79,13 +79,13 @@ ds_AkashKatiyar/
 
 ##  Sample Outputs
 ### Sentiment Distribution
-![Sentiment Distribution](outputs/sentiment_distribution.png)
+![Sentiment Distribution](sentiment_distribution.png)
 
 ### Trading Activity
-![Trader Activity](outputs/trader_activity.png)
+![Trader Activity](trades_over_time.png)
 
 ### Sentiment vs Trades
-![Sentiment vs Trades](outputs/sentiment_vs_trades.png)
+![Sentiment vs Trades](trades_vs_sentiment.png)
 
 ---
 
