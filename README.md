@@ -8,18 +8,17 @@ The goal is to analyze **crypto trader activity** and **market sentiment** from 
 
 ##  Folder Structure
 ds_AkashKatiyar/
-├── notebooks/ # Jupyter/Colab notebooks
-│ └── analysis.ipynb
-├── csv_files/ # Input datasets
-│ ├── sentiment.csv
-│ └── trader.csv
-├── outputs/ # Graphs and result files
-│ ├── sentiment_distribution.png
-│ ├── trader_activity.png
-│ └── sentiment_vs_trades.png
-├── ds_report.pdf # Final PDF report (exported)
-└── README.md # Documentation
----
+├── notebooks/
+│   └── analysis.ipynb (Jupyter/Colab notebook)
+├── csv_files/ (Input datasets)
+│   ├── sentiment.csv
+│   └── trader.csv
+├── outputs/ (Graphs and result files)
+│   ├── sentiment_distribution.png
+│   ├── trader_activity.png
+│   └── sentiment_vs_trades.png
+├── ds_report.pdf (Final PDF report - exported)
+└── README.md (Documentation)
 
 ##  Datasets
 1. **sentiment.csv**  
